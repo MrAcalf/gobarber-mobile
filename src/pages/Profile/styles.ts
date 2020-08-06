@@ -12,6 +12,7 @@ export const BackButton = styled.TouchableOpacity`
   position: absolute;
   left: 24px;
   top: 18px;
+  z-index: 1;
 `;
 
 export const Title = styled.Text`
